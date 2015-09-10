@@ -1,4 +1,4 @@
-require "admin_materialize/version"
+require 'admin_materialize/version'
 
 module AdminMaterialize
   module Rails
